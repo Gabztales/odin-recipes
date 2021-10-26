@@ -1,0 +1,49 @@
+body {
+    background-image: url(../odin-recipes/images/fondo2.jpg);
+}
+h1 { 
+    color: red;
+    text-align: center;
+    font-family: cursive;
+    font-size: 70px;
+}
+h3 {
+    color:red;
+    text-align: center;
+    font-family: cursive;
+    font-size: 40px;
+}
+h4 {
+    color: red;
+    text-align: center;
+    font-family: cursive;
+    font-size: 32px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 50%;
+}
+ul {
+    text-align: center;
+}
+li {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+p {
+    color: white;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+strong {
+    color: rgb(223, 57, 112);
+}
+a {
+    color: tomato;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 20px;
+}
